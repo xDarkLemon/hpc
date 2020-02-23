@@ -135,6 +135,7 @@ To exit a request:
 ```
 
 ## Interactive Mode: Request GPU
+Feb23: ```srun --cpus-per-task=1 --nodes=1 --mem=50GB --time=12:00:00 --gres=gpu:1  --ntasks-per-node=2 --pty /bin/bash```
 
 ```bash
 [NYUNetID@log-0 ~]$ srun --gres=gpu:1 --pty /bin/bash
