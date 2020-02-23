@@ -321,6 +321,7 @@ Create a `./.screenrc` file and append this [gist](https://gist.github.com/joaop
 Prince:
  - [Prince wiki](https://wikis.nyu.edu/display/NYUHPC/High+Performance+Computing+at+NYU)
  - [Modules](https://wikis.nyu.edu/display/NYUHPC/Software+and+Environment+Modules)
+ 
 CIMS:
  - [Other servers at CIMS](https://cims.nyu.edu/webapps/content/systems/resources/computeservers)
  - [Webshell](https://cims.nyu.edu/webapps/webshell)
