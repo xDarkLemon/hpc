@@ -216,6 +216,10 @@ Monitor the job:
 ```bash
 squeue -u $USER
 ```
+Kill a job:
+```bash
+ scancel <job-number>
+ ```
 
 More info [here](https://wikis.nyu.edu/display/NYUHPC/Submitting+jobs+with+sbatch)
 
