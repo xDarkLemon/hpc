@@ -332,6 +332,10 @@ Prince:
  - [Modules](https://wikis.nyu.edu/display/NYUHPC/Software+and+Environment+Modules)
  - [Running Jupyter on Prince](https://wikis.nyu.edu/display/NYUHPC/Running+Jupyter+on+Prince)
  
+ Prince wiki pages:
+  - [Slurm tutorial](https://wikis.nyu.edu/display/NYUHPC/Slurm+Tutorial)
+  - [Requesting resources via Slurm](https://wikis.nyu.edu/display/NYUHPC/Requesting+resources+via+Slurm)
+ 
 CIMS:
  - [Other servers at CIMS](https://cims.nyu.edu/webapps/content/systems/resources/computeservers)
  - [Webshell](https://cims.nyu.edu/webapps/webshell)
